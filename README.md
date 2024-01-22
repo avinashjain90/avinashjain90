@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avinash Jain</h1>
 <h3 align="center">I am Senior Engineering Consultant at ALTEN in Braunschweig, Germany</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/avinashjain90/avinashjain90/blob/main/SWCoding.gif">
+
 - 👨‍💻 All of my projects are available at [https://github.com/avinashjain90](https://github.com/avinashjain90)
 
 - 📫 How to reach me **jain.90avinash@gmail.com**
