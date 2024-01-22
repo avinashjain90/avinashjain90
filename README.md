@@ -1,3 +1,4 @@
+![logo](https://github.com/avinashjain90/avinashjain90/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Avinash Jain</h1>
 <h3 align="center">I am Senior Engineering Consultant at ALTEN in Braunschweig, Germany</h3>
 
